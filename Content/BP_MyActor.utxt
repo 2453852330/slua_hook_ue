@@ -1,0 +1,1226 @@
+{
+	"GatherableTextData": [],
+	"Thumbnails": {
+		"Thumbnails": [
+			{
+				"ImageWidth": 0,
+				"ImageHeight": 0,
+				"CompressedImageData": "Base64:"
+			}
+		],
+		"Index": [
+			{
+				"ObjectClassName": "Blueprint",
+				"ObjectPathWithoutPackageName": "BP_MyActor",
+				"FileOffset": 0
+			}
+		]
+	},
+	"Exports": {
+		"BP_MyActor": {
+			"__Class": "Class /Script/Engine.Blueprint",
+			"__ObjectFlags": 11,
+			"__bNotForClient": true,
+			"__bNotForServer": true,
+			"__bIsAsset": true,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "c52e293113f67312380484485a7b3a058396bf25",
+						"Base64": [
+							"AAAAAAEAAAAEAAAAAAAAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAACAAAABAAAAAEAAAAEAAAAAAAAAAABAAAABQAAAAYAAAAIAAAAAAAAAAEAAAAAAQAAAAIA",
+							"AAAHAAAABgAAAAwAAAAAAAAAAQAAAAACAAAAAwAAAAQAAAAIAAAABgAAABAAAAAAAAAACQAAAAADAAAACgAAAAsAAAAMAAAADQAAAAYAAAB2AQAAAAAAAA4A",
+							"AAAAAwAAAA0AAAAOAAAATQEAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAADgAAAAQAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAO",
+							"AAAACAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAVAAAABAAAAAAAAAAAAACAPwsAAAAQAAAADgAAAAQAAAAAAAAAEQAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAQAAABIAAAAOAAAACAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAABc0cXDKMUGxBQAAAAVAAAABAAAAAAAAAAAAAAAPwsAAAAQAAAA",
+							"DgAAAAQAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABIAAAAOAAAACAAAAAAAAAATAAAAAAAAAAAAAAAAAAAAAAAAAADkIU3DrMxWwxQAAAAVAAAA",
+							"BAAAAAAAAAAAzcwsPwsAAAAWAAAAAQAAAAQAAAAAAAAAAAUAAAAXAAAAAQAAAAQAAAAAAAAAAAYAAAAYAAAAGQAAAAAAAAAAAAAAAAAaAAAADgAAABAAAAAA",
+							"AAAAGwAAAAAAAAAAAAAAAAAAAAAAAAAA3tVPKmEcaUOFWK5XyM/q9QsAAAAAAAAA"
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/ExampleDemo426.MyActor",
+						"Object:/Script/Engine.SimpleConstructionScript /Game/BP_MyActor.BP_MyActor_C:SimpleConstructionScript_0",
+						"Object:/Script/Engine.EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+						"Object:/Script/Engine.EdGraph /Game/BP_MyActor.BP_MyActor:UserConstructionScript",
+						"Object:/Script/Engine.EdGraph /Game/BP_MyActor.BP_MyActor:BP_02",
+						"Object:/Script/UnrealEd.SceneThumbnailInfo /Game/BP_MyActor.BP_MyActor:SceneThumbnailInfo_0",
+						"Object:/Script/Engine.BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C"
+					],
+					"Names": [
+						"ParentClass",
+						"ObjectProperty",
+						"BlueprintSystemVersion",
+						"IntProperty",
+						"SimpleConstructionScript",
+						"UbergraphPages",
+						"ArrayProperty",
+						"FunctionGraphs",
+						"CategorySorting",
+						"NameProperty",
+						"Default",
+						"None",
+						"Event Graph",
+						"LastEditedDocuments",
+						"StructProperty",
+						"EditedDocumentInfo",
+						"EditedObjectPath",
+						"SoftObjectPath",
+						"SavedViewOffset",
+						"Vector2D",
+						"SavedZoomAmount",
+						"FloatProperty",
+						"ThumbnailInfo",
+						"GeneratedClass",
+						"bLegacyNeedToPurgeSkelRefs",
+						"BoolProperty",
+						"BlueprintGuid",
+						"Guid"
+					],
+					"SoftObjectPaths": [
+						"Object:/Game/BP_MyActor.BP_MyActor:UserConstructionScript",
+						"Object:/Game/BP_MyActor.BP_MyActor:BP_02",
+						"Object:/Game/BP_MyActor.BP_MyActor:EventGraph"
+					]
+				}
+			}
+		},
+		"BP_MyActor_C": {
+			"__Class": "Class /Script/Engine.BlueprintGeneratedClass",
+			"__SuperStruct": "Class /Script/ExampleDemo426.MyActor",
+			"__ObjectFlags": 9,
+			"__Value": {
+				"Data": {
+					"Digest": "62ee10f839e8b47c10fc65738b1646354fd89f65",
+					"Base64": [
+						"AAAAAAEAAAAEAAAAAAAAAAAAAAAAAgAAAAEAAAAEAAAAAAAAAAABAAAAAwAAAAAAAAACAAAABQAAAAMAAAAEAAAABQAAAAYAAAABAAAAAgAAAAQAAAAFAAAA",
+						"AQAgAAAAAAABAAAAEAAAAAAgIAAAAAAAAAADAAAAAAcAAAABAAAABgAAAAEAIAABAAAAAQAAAAcAAAAIAAAARGVmYXVsdAABAAAACAAAAAQACAAEAAAAAAAD",
+						"AAAAAAgAAAAAAAAAAAAAAAkAAAAIAAAAAQAAAAkAAAAGAAAACgAAAAUAAAALAAAABAAAAAwAAAADAAAADQAAAAQAAAAOAAAABQAAAA8AAAADAAAAEAAAAAYA",
+						"AAAUCIQACQAAABEAAAAKAAAAAAAAAAAAAAADAAAAAAAAAAsAAAA="
+					]
+				},
+				"Objects": [
+					"Object:/Script/Engine.SimpleConstructionScript /Game/BP_MyActor.BP_MyActor_C:SimpleConstructionScript_0",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ExecuteUbergraph_BP_MyActor",
+					"Object:/Script/CoreUObject.Class /Script/ExampleDemo426.MyActor",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:BP_02",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ReceiveBeginPlay",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:BP_01",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:BP_03",
+					"Object:/Script/CoreUObject.ScriptStruct /Script/Engine.PointerToUberGraphFrame",
+					"Object:/Script/CoreUObject.Class /Script/Engine.SceneComponent",
+					"Object:/Script/CoreUObject.Class /Script/CoreUObject.Object",
+					"Object:/Script/Engine.Blueprint /Game/BP_MyActor.BP_MyActor",
+					"Object:/Game/BP_MyActor.BP_MyActor_C /Game/BP_MyActor.Default__BP_MyActor_C"
+				],
+				"Names": [
+					"SimpleConstructionScript",
+					"ObjectProperty",
+					"UberGraphFunction",
+					"None",
+					"StructProperty",
+					"UberGraphFrame",
+					"DefaultSceneRoot",
+					"Category",
+					"ExecuteUbergraph_BP_MyActor",
+					"BP_03",
+					"BP_01",
+					"ReceiveBeginPlay",
+					"BP_02",
+					"OLD_FUNC_PREFIX_ReceiveBeginPlay",
+					"OLD_FUNC_PREFIX_BP_01",
+					"OLD_FUNC_PREFIX_BP_02",
+					"OLD_FUNC_PREFIX_BP_03",
+					"Engine"
+				]
+			}
+		},
+		"Default__BP_MyActor_C": {
+			"__Class": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__ObjectFlags": 49,
+			"__Value": {
+				"Data": "Base64:AAAAAAEAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABQAAABEAAAAAAAAAAA0AAABCUF9NeUFjdG9yLTEAAwAAAA==",
+				"Names": [
+					"UberGraphFrame",
+					"StructProperty",
+					"PointerToUberGraphFrame",
+					"None",
+					"ActorLabel",
+					"StrProperty"
+				]
+			}
+		},
+		"BP_MyActor:BP_02": {
+			"__Class": "Class /Script/Engine.EdGraph",
+			"__Outer": "Blueprint /Game/BP_MyActor.BP_MyActor",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"Properties": {
+					"Schema": {
+						"__Type": "ObjectProperty",
+						"__Value": "Object:/Script/CoreUObject.Class /Script/BlueprintGraph.EdGraphSchema_K2"
+					},
+					"Nodes": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_FunctionEntry_0",
+							"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_CallFunction_0"
+						]
+					},
+					"GraphGuid": {
+						"__Type": "StructProperty",
+						"__StructName": "Guid",
+						"__Value": "FF0CEC554ECF81E35E6016905C14161B"
+					}
+				}
+			}
+		},
+		"BP_MyActor:EventGraph": {
+			"__Class": "Class /Script/Engine.EdGraph",
+			"__Outer": "Blueprint /Game/BP_MyActor.BP_MyActor",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"Properties": {
+					"Schema": {
+						"__Type": "ObjectProperty",
+						"__Value": "Object:/Script/CoreUObject.Class /Script/BlueprintGraph.EdGraphSchema_K2"
+					},
+					"Nodes": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_0",
+							"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_3",
+							"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_2",
+							"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_1",
+							"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_4",
+							"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_0"
+						]
+					},
+					"bAllowDeletion": {
+						"__Type": "BoolProperty",
+						"__Value": 0
+					},
+					"GraphGuid": {
+						"__Type": "StructProperty",
+						"__StructName": "Guid",
+						"__Value": "9EB82BCC4B96383E6E061B864AD2C2D4"
+					}
+				}
+			}
+		},
+		"BP_MyActor:UserConstructionScript": {
+			"__Class": "Class /Script/Engine.EdGraph",
+			"__Outer": "Blueprint /Game/BP_MyActor.BP_MyActor",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"Properties": {
+					"Schema": {
+						"__Type": "ObjectProperty",
+						"__Value": "Object:/Script/CoreUObject.Class /Script/BlueprintGraph.EdGraphSchema_K2"
+					},
+					"Nodes": {
+						"__Type": "ArrayProperty",
+						"__InnerType": "ObjectProperty",
+						"__Value": [
+							"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:UserConstructionScript.K2Node_FunctionEntry_0"
+						]
+					},
+					"bAllowDeletion": {
+						"__Type": "BoolProperty",
+						"__Value": 0
+					},
+					"GraphGuid": {
+						"__Type": "StructProperty",
+						"__StructName": "Guid",
+						"__Value": "D788110B4C748C86309369985F9ADE63"
+					}
+				}
+			}
+		},
+		"BP_MyActor_C:BP_01": {
+			"__Class": "Class /Script/CoreUObject.Function",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__SuperStruct": "Function /Script/ExampleDemo426.MyActor:BP_01",
+			"__ObjectFlags": 1,
+			"__Value": {
+				"Data": "Base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAFQAAAP8EC15aXkYBAAAAHcIAAAAWWgQLUwAIAggCAAAAAAAAAA==",
+				"Objects": [
+					"Object:/Script/CoreUObject.Function /Script/ExampleDemo426.MyActor:BP_01",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ExecuteUbergraph_BP_MyActor",
+					null
+				],
+				"Names": [
+					"None"
+				]
+			}
+		},
+		"BP_MyActor_C:BP_02": {
+			"__Class": "Class /Script/CoreUObject.Function",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__ObjectFlags": 1,
+			"__Value": {
+				"Data": {
+					"Digest": "2894f4d33813f314da53fe6d4a45fa4ebaaa1749",
+					"Base64": [
+						"AAAAAAAAAAAAAAAAAAAAAAAAAABfAAAAVwAAAP8EC15aXmgBAAAAFx90aGlzIGlzIGZ1bmMgYnAgMDIgZGVmaW5lIGluIGJwACcnLwIAAAAQAAAAHgAAAAAe",
+						"w/UoPx4AAIA/HgAAgD8wHgAAAEAWWgQLUwAAAgwAAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					null,
+					"Object:/Script/CoreUObject.Function /Script/Engine.KismetSystemLibrary:PrintString",
+					"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+				],
+				"Names": [
+					"None"
+				]
+			}
+		},
+		"BP_MyActor_C:BP_03": {
+			"__Class": "Class /Script/CoreUObject.Function",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__SuperStruct": "Function /Script/ExampleDemo426.MyActor:BP_03",
+			"__ObjectFlags": 1,
+			"__Value": {
+				"Data": "Base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAFQAAAP8EC15aXkYBAAAAHSEBAAAWWgQLUwAIAggCAAAAAAAAAA==",
+				"Objects": [
+					"Object:/Script/CoreUObject.Function /Script/ExampleDemo426.MyActor:BP_03",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ExecuteUbergraph_BP_MyActor",
+					null
+				],
+				"Names": [
+					"None"
+				]
+			}
+		},
+		"BP_MyActor_C:ExecuteUbergraph_BP_MyActor": {
+			"__Class": "Class /Script/CoreUObject.Function",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__ObjectFlags": 1,
+			"__Value": {
+				"Data": {
+					"Digest": "69622d683e5e7dd9ac70eb6132299ec805aac10f",
+					"Base64": [
+						"AAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAgAAAAEAAAAAAAAAAQAAAAQAAACUAAAAAAAAAAAAAAAAAAArAQAAFwEAAE4AAQAAAAIAAAABAAAAXmgCAAAAFx90",
+						"aGlzIGlzIGZ1bmMgYnAgMDMgb3ZlcnJpZGVyIGluIGJwACcnLwMAAAAQAAAAHgAAAAAew/UoPx4AAIA/HgAAgD8wHgAAAEAWWgYoAQAAXlpeaAIAAAAXH2Jl",
+						"Z2luIHBsYXkgZnVuY3Rpb24gY2FsbGVkACcnLwMAAAAQAAAAHgAAAAAew/UoPx4AAIA/HgAAgD8wHgAAAEAWWgYoAQAAXlpeaAIAAAAXH3RoaXMgaXMgZnVu",
+						"YyBicCAwMSBkZWZpbmUgaW4gY3BwACcnLwMAAAAQAAAAHgAAAAAew/UoPx4AAIA/HgAAgD8wHgAAAEAWWgYoAQAAXloGCgAAAAQLUwGAAAAAAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					null,
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ExecuteUbergraph_BP_MyActor",
+					"Object:/Script/CoreUObject.Function /Script/Engine.KismetSystemLibrary:PrintString",
+					"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+				],
+				"Names": [
+					"None",
+					"IntProperty",
+					"EntryPoint"
+				]
+			}
+		},
+		"BP_MyActor_C:ReceiveBeginPlay": {
+			"__Class": "Class /Script/CoreUObject.Function",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__SuperStruct": "Function /Script/Engine.Actor:ReceiveBeginPlay",
+			"__ObjectFlags": 1,
+			"__Value": {
+				"Data": "Base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAFQAAAP8EC15aXkYBAAAAHWkAAAAWWgQLUwAICAgCAAAAAAAAAA==",
+				"Objects": [
+					"Object:/Script/CoreUObject.Function /Script/Engine.Actor:ReceiveBeginPlay",
+					"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ExecuteUbergraph_BP_MyActor",
+					null
+				],
+				"Names": [
+					"None"
+				]
+			}
+		},
+		"BP_MyActor:BP_02.K2Node_CallFunction_0": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_CallFunction",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:BP_02",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "82f23d9320892ed74f2099bb54982d18a0d301b6",
+						"Base64": [
+							"AAAAAAEAAAAuAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAACgAA",
+							"AAQAAAAAAAAAANAAAAALAAAADAAAAAQAAAAAAAAADQAAAAAOAAAADwAAABAAAAAEAAAAAAAAABEAAAAAEgAAABMAAAABAAAAEAAAAAAAAAAUAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAADVte/FvJD5TLFR/dpMqo4dCAAAAAAAAAAJAAAAAAAAAAEAAAAhgpmcN4t7SrF2uU1dTgeQAQAAACGCmZw3i3tKsXa5TV1OB5AVAAAAAAAA",
+							"AP8AAAAAAAAAAAAWAAAACAAAAAIAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAD/AAAAAAEAAAAA",
+							"AAAAAwAAAKOOAghuAD9JugrWKiqxUZsAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAatmBry2dSUSlcRhnF9NqagEAAABq2YGvLZ1J",
+							"RKVxGGcX02pqFwAAAAAAAAD/AAAAAAAAAAABFgAAAAgAAAACAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIA",
+							"AAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAADPuhcfRbttFh8uaoXMICu8BAAAAM+6Fx9Fu20WHy5qhcwgK",
+							"7xgAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRhcmdldAAHAAAAVGFyZ2V0AAAAAAAAGQAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAL0aNB0u/l9Ih72eXmID",
+							"IKIBAAAAvRo0HS7+X0iHvZ5eYgMgohoAAAAAAAAA/wAAAAAAAAAAABkAAAAIAAAABQAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA",
+							"AAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAABOq5z3cSHgToo0xscGu+5/AQAAAE6r",
+							"nPdxIeBOijTGxwa77n8bAAAAAAAAAP8AAAAAAAAAAAAcAAAACAAAAAIAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAB0",
+							"aGlzIGlzIGZ1bmMgYnAgMDIgZGVmaW5lIGluIGJwAAYAAABIZWxsbwACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAEAAACI7tnfr8vdTadl9jlGUIMEAQAAAIju2d+vy91Np2X2OUZQgwQdAAAAAAAAAP8AAAAAAAAAAAAeAAAACAAAAAIAAAAAAAAAAAAAAAACAAAACAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAB0cnVlAAUAAAB0cnVlAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAABAA",
+							"AAAAAAAAAQAAAEFy6Qze8lNLi2wf/56/KQEBAAAAQXLpDN7yU0uLbB//nr8pAR8AAAAAAAAA/wAAAAAAAAAAAB4AAAAIAAAAAgAAAAAAAAAAAAAAAAIAAAAI",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAHRydWUABQAAAHRydWUAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"EAAAAAAAAAABAAAA3bCv92UkVUyS8Nue4JaGMgEAAADdsK/3ZSRVTJLw257gloYyIAAAAAAAAAD/AAAAAAAAAAAAIQAAAAgAAAAGAAAAAAAAAAAAAAAAAgAA",
+							"AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuAAAAKFI9MC4wMDAwMDAsRz0wLjY2MDAwMCxCPTEuMDAwMDAwLEE9MS4wMDAwMDApAC4AAAAoUj0wLjAw",
+							"MDAwMCxHPTAuNjYwMDAwLEI9MS4wMDAwMDAsQT0xLjAwMDAwMCkAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA",
+							"AAABAAAAPKsMMzjCDE+vMz7bv1n1+QEAAAA8qwwzOMIMT68zPtu/WfX5IgAAAAAAAAD/AAAAAAAAAAAAIwAAAAgAAAACAAAAAAAAAAAAAAAAAgAAAAgAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAMi4wMDAwMDAACQAAADIuMDAwMDAwAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAA",
+							"AAAAABAAAAA="
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.KismetSystemLibrary",
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_CallFunction_0",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_FunctionEntry_0",
+						"Object:/Script/Engine.KismetSystemLibrary /Script/Engine.Default__KismetSystemLibrary",
+						"Object:/Script/CoreUObject.Class /Script/CoreUObject.Object",
+						"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+					],
+					"Names": [
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"PrintString",
+						"None",
+						"NodePosX",
+						"IntProperty",
+						"AdvancedPinDisplay",
+						"ByteProperty",
+						"ENodeAdvancedPins",
+						"ENodeAdvancedPins::Hidden",
+						"EnabledState",
+						"EnumProperty",
+						"ENodeEnabledState",
+						"ENodeEnabledState::DevelopmentOnly",
+						"NodeGuid",
+						"Guid",
+						"execute",
+						"exec",
+						"then",
+						"self",
+						"object",
+						"WorldContextObject",
+						"InString",
+						"string",
+						"bPrintToScreen",
+						"bool",
+						"bPrintToLog",
+						"TextColor",
+						"struct",
+						"Duration",
+						"float"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_CallFunction_0": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_CallFunction",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "60baaa6e5bc10f9d54b740523437fc70dae7e3f9",
+						"Base64": [
+							"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"
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.KismetSystemLibrary",
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_0",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_4",
+						"Object:/Script/Engine.KismetSystemLibrary /Script/Engine.Default__KismetSystemLibrary",
+						"Object:/Script/CoreUObject.Class /Script/CoreUObject.Object",
+						"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+					],
+					"Names": [
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"PrintString",
+						"None",
+						"NodePosX",
+						"IntProperty",
+						"NodePosY",
+						"AdvancedPinDisplay",
+						"ByteProperty",
+						"ENodeAdvancedPins",
+						"ENodeAdvancedPins::Hidden",
+						"EnabledState",
+						"EnumProperty",
+						"ENodeEnabledState",
+						"ENodeEnabledState::DevelopmentOnly",
+						"NodeGuid",
+						"Guid",
+						"execute",
+						"exec",
+						"then",
+						"self",
+						"object",
+						"WorldContextObject",
+						"InString",
+						"string",
+						"bPrintToScreen",
+						"bool",
+						"bPrintToLog",
+						"TextColor",
+						"struct",
+						"Duration",
+						"float"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_CallFunction_1": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_CallFunction",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "849efa1e4bc10796181e6dc2bfb6a541c877bc5f",
+						"Base64": [
+							"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",
+							"AAAA"
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.KismetSystemLibrary",
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_1",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_0",
+						"Object:/Script/Engine.KismetSystemLibrary /Script/Engine.Default__KismetSystemLibrary",
+						"Object:/Script/CoreUObject.Class /Script/CoreUObject.Object",
+						"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+					],
+					"Names": [
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"PrintString",
+						"None",
+						"NodePosX",
+						"IntProperty",
+						"AdvancedPinDisplay",
+						"ByteProperty",
+						"ENodeAdvancedPins",
+						"ENodeAdvancedPins::Hidden",
+						"EnabledState",
+						"EnumProperty",
+						"ENodeEnabledState",
+						"ENodeEnabledState::DevelopmentOnly",
+						"NodeGuid",
+						"Guid",
+						"execute",
+						"exec",
+						"then",
+						"self",
+						"object",
+						"WorldContextObject",
+						"InString",
+						"string",
+						"bPrintToScreen",
+						"bool",
+						"bPrintToLog",
+						"TextColor",
+						"struct",
+						"Duration",
+						"float"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_CallFunction_2": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_CallFunction",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "72212d46f6b2535a1339bc136f5a993fda33ff64",
+						"Base64": [
+							"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"
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.KismetSystemLibrary",
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_2",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_3",
+						"Object:/Script/Engine.KismetSystemLibrary /Script/Engine.Default__KismetSystemLibrary",
+						"Object:/Script/CoreUObject.Class /Script/CoreUObject.Object",
+						"Object:/Script/CoreUObject.ScriptStruct /Script/CoreUObject.LinearColor"
+					],
+					"Names": [
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"PrintString",
+						"None",
+						"NodePosX",
+						"IntProperty",
+						"NodePosY",
+						"AdvancedPinDisplay",
+						"ByteProperty",
+						"ENodeAdvancedPins",
+						"ENodeAdvancedPins::Hidden",
+						"EnabledState",
+						"EnumProperty",
+						"ENodeEnabledState",
+						"ENodeEnabledState::DevelopmentOnly",
+						"NodeGuid",
+						"Guid",
+						"execute",
+						"exec",
+						"then",
+						"self",
+						"object",
+						"WorldContextObject",
+						"InString",
+						"string",
+						"bPrintToScreen",
+						"bool",
+						"bPrintToLog",
+						"TextColor",
+						"struct",
+						"Duration",
+						"float"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_Event_0": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_Event",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "1cfce8f09a45e4e784afd586fd34b4e5bd2bea4a",
+						"Base64": [
+							"AAAAAAEAAAAuAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAACgAA",
+							"AAAAAAAAAAAAAQALAAAACgAAAAAAAAAAAAAAAQAMAAAAAQAAABAAAAAAAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAV4LW8yRvNEmbakQaJwO8JwgAAAAAAAAA",
+							"AgAAAAAAAAABAAAADpW3Wxv4J0GyA9nLh6/boQEAAAAOlbdbG/gnQbID2cuHr9uhDgAAAAAAAAD/AAAAAAAAAAABDwAAAAgAAAACAAAAAAAAAAAAAAAAAAAA",
+							"AAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AQAAABirWI7mlM5EpHUiK6XdZawBAAAAGKtYjuaUzkSkdSIrpd1lrBAAAAAAAAAA/wAAAAAAAAAAAREAAAAIAAAAAgAAAAAAAAAAAAAAAAIAAAAIAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAQAAAAAAAAADAAAATIxxfuqtnUu1PRayWIeTXwAAAAABAAAAAQAAAAAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAA=="
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.Actor",
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_0",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_1"
+					],
+					"Names": [
+						"EventReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"ReceiveBeginPlay",
+						"None",
+						"bOverrideFunction",
+						"BoolProperty",
+						"bCommentBubblePinned",
+						"NodeGuid",
+						"Guid",
+						"OutputDelegate",
+						"delegate",
+						"then",
+						"exec"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_Event_3": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_Event",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "14f6575a000c4e2e3d1d04b837fee3107a75309a",
+						"Base64": [
+							"AAAAAAEAAAAuAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAACgAA",
+							"AAAAAAAAAAAAAQALAAAADAAAAAQAAAAAAAAAAKACAAANAAAAAQAAABAAAAAAAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAWTTjF1weJk+NLIf3TRDsjwgAAAAA",
+							"AAAAAgAAAAAAAAABAAAAx6yxvEI6VEOm/0zL6sj6wAEAAADHrLG8QjpUQ6b/TMvqyPrADwAAAAAAAAD/AAAAAAAAAAABEAAAAAgAAAACAAAAAAAAAAAAAAAA",
+							"AAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAQAAALmWymq/i9FAvYe9FDnFdyIBAAAAuZbKar+L0UC9h70UOcV3IhEAAAAAAAAA/wAAAAAAAAAAARIAAAAIAAAAAgAAAAAAAAAAAAAAAAIAAAAIAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAQAAAAAAAAADAAAAIYKZnDeLe0qxdrlNXU4HkAAAAAABAAAAAQAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAA=="
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/ExampleDemo426.MyActor",
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_3",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_2"
+					],
+					"Names": [
+						"EventReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"BP_01",
+						"None",
+						"bOverrideFunction",
+						"BoolProperty",
+						"NodePosY",
+						"IntProperty",
+						"NodeGuid",
+						"Guid",
+						"OutputDelegate",
+						"delegate",
+						"then",
+						"exec"
+					]
+				}
+			}
+		},
+		"BP_MyActor:EventGraph.K2Node_Event_4": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_Event",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:EventGraph",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "54c6ccf200fcd0f78dd6ee2782c47a95037e00ef",
+						"Base64": [
+							"AAAAAAEAAAAuAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAACgAA",
+							"AAAAAAAAAAAAAQALAAAADAAAAAQAAAAAAAAAAKADAAANAAAAAQAAABAAAAAAAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAANATxSu1XbUO1upJMNDHjFAgAAAAA",
+							"AAAAAgAAAAAAAAABAAAAL2NICX6Cr0CtgjbTlHtgwAEAAAAvY0gJfoKvQK2CNtOUe2DADwAAAAAAAAD/AAAAAAAAAAABEAAAAAgAAAACAAAAAAAAAAAAAAAA",
+							"AAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAQAAAJpIM8yAG0tNpB5tlrVwDX4BAAAAmkgzzIAbS02kHm2WtXANfhEAAAAAAAAA/wAAAAAAAAAAARIAAAAIAAAAAgAAAAAAAAAAAAAAAAIAAAAIAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAQAAAAAAAAADAAAAIYKZnDeLe0qxdrlNXU4HkAAAAAABAAAAAQAAAAAAAAAA",
+							"AAAAAAAAAAAAAAAAAAAAAAAAAA=="
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/ExampleDemo426.MyActor",
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_4",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_CallFunction_0"
+					],
+					"Names": [
+						"EventReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"BP_03",
+						"None",
+						"bOverrideFunction",
+						"BoolProperty",
+						"NodePosY",
+						"IntProperty",
+						"NodeGuid",
+						"Guid",
+						"OutputDelegate",
+						"delegate",
+						"then",
+						"exec"
+					]
+				}
+			}
+		},
+		"BP_MyActor:BP_02.K2Node_FunctionEntry_0": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_FunctionEntry",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:BP_02",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "b40a37376552e19299a048775072fa4d1d5724b8",
+						"Base64": [
+							"AAAAAAEAAAAEAAAAAAAAAAAAAAIMAgAAAAMAAAAZAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAACgAA",
+							"AAAAAAAAAAAAAQALAAAAAwAAABAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAv6CrRkeYp0K2Kvo8BVyINggAAAAAAAAAAQAAAAAAAAAAAAAAo44CCG4A",
+							"P0m6CtYqKrFRmwAAAACjjgIIbgA/SboK1ioqsVGbDQAAAAAAAAD/AAAAAAAAAAABDgAAAAgAAAABAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAA/wAAAAABAAAAAAAAAAIAAAAhgpmcN4t7SrF2uU1dTgeQAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+							"AAAAAAAA"
+						]
+					},
+					"Objects": [
+						"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_FunctionEntry_0",
+						null,
+						"Object:/Script/BlueprintGraph.K2Node_CallFunction /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_CallFunction_0"
+					],
+					"Names": [
+						"ExtraFlags",
+						"IntProperty",
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberName",
+						"NameProperty",
+						"BP_02",
+						"None",
+						"bIsEditable",
+						"BoolProperty",
+						"NodeGuid",
+						"Guid",
+						"then",
+						"exec"
+					]
+				}
+			}
+		},
+		"BP_MyActor:UserConstructionScript.K2Node_FunctionEntry_0": {
+			"__Class": "Class /Script/BlueprintGraph.K2Node_FunctionEntry",
+			"__Outer": "EdGraph /Game/BP_MyActor.BP_MyActor:UserConstructionScript",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "f10cd18641a924b996626ed238d57b8e222a4e5c",
+						"Base64": [
+							"AAAAAAEAAAAuAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAEAAAABAAAAAAAAAAAAAAAAAUAAAAGAAAABAAAAAAAAAAABwAAAAgAAAAJAAAAAQAA",
+							"ABAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAAAwPPy7T49QkOjOJSZChQiCQgAAAAAAAAAAQAAAAAAAAABAAAAWFoMFasVdEGi3S/3uf+UjgEAAABYWgwV",
+							"qxV0QaLdL/e5/5SOCwAAAAAAAAD/AAAAAAAAAAABDAAAAAgAAAACAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA",
+							"AAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.Actor",
+						"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:UserConstructionScript.K2Node_FunctionEntry_0",
+						null
+					],
+					"Names": [
+						"FunctionReference",
+						"StructProperty",
+						"MemberReference",
+						"MemberParent",
+						"ObjectProperty",
+						"MemberName",
+						"NameProperty",
+						"UserConstructionScript",
+						"None",
+						"NodeGuid",
+						"Guid",
+						"then",
+						"exec"
+					]
+				}
+			}
+		},
+		"PackageMetaData": {
+			"__Class": "Class /Script/CoreUObject.MetaData",
+			"__ObjectFlags": 2,
+			"__bNotForClient": true,
+			"__bNotForServer": true,
+			"__Value": {
+				"Properties": {},
+				"ObjectMetaDataMap": [
+					[
+						"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:UserConstructionScript.K2Node_FunctionEntry_0",
+						[
+							[
+								"DefaultGraphNode",
+								"true"
+							]
+						]
+					],
+					[
+						"Object:/Script/Engine.BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+						[
+							[
+								"BlueprintType",
+								"true"
+							]
+						]
+					],
+					[
+						"Object:/Script/BlueprintGraph.K2Node_Event /Game/BP_MyActor.BP_MyActor:EventGraph.K2Node_Event_0",
+						[
+							[
+								"DefaultGraphNode",
+								"true"
+							]
+						]
+					],
+					[
+						"Object:/Script/BlueprintGraph.K2Node_FunctionEntry /Game/BP_MyActor.BP_MyActor:BP_02.K2Node_FunctionEntry_0",
+						[
+							[
+								"DefaultGraphNode",
+								"true"
+							]
+						]
+					],
+					[
+						null,
+						[
+							[
+								"BlueprintType",
+								"true"
+							]
+						]
+					],
+					[
+						null,
+						[
+							[
+								"Comment",
+								"/** Event when play begins for this actor. */"
+							],
+							[
+								"DisplayName",
+								"BeginPlay"
+							],
+							[
+								"ModuleRelativePath",
+								"Classes/GameFramework/Actor.h"
+							],
+							[
+								"ToolTip",
+								"Event when play begins for this actor."
+							]
+						]
+					],
+					[
+						null,
+						[
+							[
+								"ModuleRelativePath",
+								"Public/MyActor.h"
+							]
+						]
+					],
+					[
+						null,
+						[
+							[
+								"ModuleRelativePath",
+								"Public/MyActor.h"
+							]
+						]
+					],
+					[
+						null,
+						[
+							[
+								"BlueprintInternalUseOnly",
+								"true"
+							],
+							[
+								"Comment",
+								"/**\n\t * Construction script, the place to spawn components and do other setup.\n\t * @note Name used in CreateBlueprint function\n\t */"
+							],
+							[
+								"DisplayName",
+								"Construction Script"
+							],
+							[
+								"ModuleRelativePath",
+								"Classes/GameFramework/Actor.h"
+							],
+							[
+								"ToolTip",
+								"Construction script, the place to spawn components and do other setup.\n@note Name used in CreateBlueprint function"
+							]
+						]
+					],
+					[
+						"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:BP_03",
+						[
+							[
+								"ModuleRelativePath",
+								"Public/MyActor.h"
+							]
+						]
+					],
+					[
+						"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:BP_01",
+						[
+							[
+								"ModuleRelativePath",
+								"Public/MyActor.h"
+							]
+						]
+					],
+					[
+						"Object:/Script/CoreUObject.Function /Game/BP_MyActor.BP_MyActor_C:ReceiveBeginPlay",
+						[
+							[
+								"Comment",
+								"/** Event when play begins for this actor. */"
+							],
+							[
+								"DisplayName",
+								"BeginPlay"
+							],
+							[
+								"ModuleRelativePath",
+								"Classes/GameFramework/Actor.h"
+							],
+							[
+								"ToolTip",
+								"Event when play begins for this actor."
+							]
+						]
+					]
+				],
+				"RootMetaDataMap": [
+					[
+						"PackageLocalizationNamespace",
+						"3F632C404B740BB23FC1B7AF8AD4EC6B"
+					]
+				]
+			}
+		},
+		"BP_MyActor_C:DefaultSceneRoot_GEN_VARIABLE": {
+			"__Class": "Class /Script/Engine.SceneComponent",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__ObjectFlags": 41,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": "Base64:AAAAAAEAAAAAAAAAAAAAAAEAAgAAAAAAAAA=",
+					"Names": [
+						"bVisualizeComponent",
+						"BoolProperty",
+						"None"
+					]
+				}
+			}
+		},
+		"BP_MyActor:SceneThumbnailInfo_0": {
+			"__Class": "Class /Script/UnrealEd.SceneThumbnailInfo",
+			"__Outer": "Blueprint /Game/BP_MyActor.BP_MyActor",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": "Base64:AAAAAAAAAAA=",
+					"Names": [
+						"None"
+					]
+				}
+			}
+		},
+		"BP_MyActor_C:SimpleConstructionScript_0.SCS_Node_0": {
+			"__Class": "Class /Script/Engine.SCS_Node",
+			"__Outer": "SimpleConstructionScript /Game/BP_MyActor.BP_MyActor_C:SimpleConstructionScript_0",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": {
+						"Digest": "0db89d0a1bfb6f47283c7b07dc6360731b2e3b52",
+						"Base64": [
+							"AAAAAAEAAAAEAAAAAAAAAAAAAAAAAgAAAAEAAAAEAAAAAAAAAAABAAAAAwAAAAQAAAAlAAAAAAAAAAAIAAAAAAQAAABTQ1MACAAAAERlZmF1bHQACAAAAERl",
+							"ZmF1bHQABQAAAAYAAAAQAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAACYJTaPFT7BOvw5HvXF6cyEIAAAACQAAAAQAAAAAAAAAAAoAAAALAAAAAAAAAA=="
+						]
+					},
+					"Objects": [
+						"Object:/Script/CoreUObject.Class /Script/Engine.SceneComponent",
+						"Object:/Script/Engine.SceneComponent /Game/BP_MyActor.BP_MyActor_C:DefaultSceneRoot_GEN_VARIABLE"
+					],
+					"Names": [
+						"ComponentClass",
+						"ObjectProperty",
+						"ComponentTemplate",
+						"CategoryName",
+						"TextProperty",
+						"VariableGuid",
+						"StructProperty",
+						"Guid",
+						"InternalVariableName",
+						"NameProperty",
+						"DefaultSceneRoot",
+						"None"
+					]
+				}
+			}
+		},
+		"BP_MyActor_C:SimpleConstructionScript_0": {
+			"__Class": "Class /Script/Engine.SimpleConstructionScript",
+			"__Outer": "BlueprintGeneratedClass /Game/BP_MyActor.BP_MyActor_C",
+			"__ObjectFlags": 8,
+			"__Value": {
+				"BaseClassAutoGen": {
+					"Data": "Base64:AAAAAAEAAAAIAAAAAAAAAAIAAAAAAQAAAAAAAAADAAAAAQAAAAgAAAAAAAAAAgAAAAABAAAAAAAAAAQAAAACAAAABAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+					"Objects": [
+						"Object:/Script/Engine.SCS_Node /Game/BP_MyActor.BP_MyActor_C:SimpleConstructionScript_0.SCS_Node_0"
+					],
+					"Names": [
+						"RootNodes",
+						"ArrayProperty",
+						"ObjectProperty",
+						"AllNodes",
+						"DefaultSceneRootNode",
+						"None"
+					]
+				}
+			}
+		}
+	},
+	"Summary": {
+		"Tag": -1641380927,
+		"LegacyFileVersion": -7,
+		"LegacyUE3Version": 864,
+		"FileVersionUE4": 522,
+		"FileVersionLicenseeUE4": 0,
+		"CustomVersions": [
+			{
+				"Key": "29E575DDE0A346279D10D276232CDCEA",
+				"Version": 17
+			},
+			{
+				"Key": "375EC13C06E448FBB50084F0262A717E",
+				"Version": 4
+			},
+			{
+				"Key": "601D1886AC644F84AA16D3DE0DEAC7D6",
+				"Version": 43
+			},
+			{
+				"Key": "9C54D522A8264FBE9421074661B482D0",
+				"Version": 38
+			},
+			{
+				"Key": "B0D832E41F894F0DACCF7EB736FD4AA2",
+				"Version": 10
+			},
+			{
+				"Key": "CFFC743F43B04480939114DF171D2073",
+				"Version": 37
+			},
+			{
+				"Key": "E4B068EDF49442E9A231DA0B2E46BB41",
+				"Version": 40
+			}
+		],
+		"TotalHeaderSize": 0,
+		"FolderName": "None",
+		"PackageFlags": 0,
+		"NameCount": 0,
+		"NameOffset": 0,
+		"LocalizationId": "3F632C404B740BB23FC1B7AF8AD4EC6B",
+		"GatherableTextDataCount": 0,
+		"GatherableTextDataOffset": 0,
+		"ExportCount": 25,
+		"ExportOffset": 0,
+		"ImportCount": 30,
+		"ImportOffset": 0,
+		"DependsOffset": 0,
+		"SoftPackageReferencesCount": 1,
+		"SoftPackageReferencesOffset": 0,
+		"SearchableNamesOffset": 0,
+		"ThumbnailTableOffset": 0,
+		"Guid": "835DE0694E97C81053751284C61B4E04",
+		"PersistentGuid": "9068624C4F403FD993B90B9DCA0C36C1",
+		"GenerationCount": 1,
+		"Generations": [
+			{
+				"ExportCount": 25,
+				"NameCount": 0
+			}
+		],
+		"SavedByEngineVersion": "4.26.2-15973114+++UE4+Release-4.26",
+		"CompatibleWithEngineVersion": "4.26.0-14830424+++UE4+Release-4.26",
+		"CompressionFlags": 0,
+		"CompressedChunks": [],
+		"PackageSource": 1526008577,
+		"AdditionalPackagesToCook": [],
+		"AssetRegistryDataOffset": 0,
+		"BulkDataStartOffset": 0,
+		"WorldTileInfoDataOffset": 0,
+		"ChunkIDs": [],
+		"PreloadDependencyCount": -1,
+		"PreloadDependencyOffset": 0
+	}
+}
